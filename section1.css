@@ -1,0 +1,14 @@
+
+
+.main {
+    display: flex;
+    justify-content: space-between;
+}
+
+.mid {
+    display: flex;
+}
+
+.input {
+    display: flex;
+}
