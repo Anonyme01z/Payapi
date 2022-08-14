@@ -26,8 +26,7 @@
            /*border: 5px solid blue;*/
            color: #ffffff;
            font-family: monospace;
-           
-}
+        }
 
 #Text{
       display: flex;
@@ -35,15 +34,16 @@
       /*border: 5px solid red;*/
       justify-content: center;
       width: 950px;
+      font-size: 200%;
       
+      }
 
-}
 
 #Yellow{
           display: flex;
          /* border: 5px solid black;*/
           width: 950px;
           background-color: transparent;
-}
+       }
 
 /*********************************************************************************************************************/
