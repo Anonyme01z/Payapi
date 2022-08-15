@@ -1,0 +1,49 @@
+
+
+/* #################################################### */
+
+body {
+    margin: 0px 0px;
+    background-color:rgb(175, 126, 126);
+    position: fixed;}
+/* ..................................................... */
+
+.main {
+    display: flex;
+    margin-top: 150px;
+    margin-left: 200px;
+    margin-right: 290px;
+    justify-content: space-between;} 
+
+ /*.....................................................  */
+
+.text {
+    margin-top: 130px;
+    font-family:poppins;
+    height: 120px;
+    padding-left: 40px;
+    width: 400px;
+    background:rgb(1, 1, 27);
+    color: wheat;
+    border-radius: 30px;
+    box-shadow: -3px -5px rgb(196, 192, 192);}
+
+/* ...................................................... */
+
+p {font-size: 10px;}
+
+/* ...................................................... */
+
+span {font-size: 40px;
+      font-family: Frank Ruhl Libre ;
+      width:500px;}
+
+/*....................................................  */
+
+.phone {display: flex;
+        width: 230px;
+        margin-left: 150px;
+        margin-right: 220px;
+        padding-bottom: 500px;
+        filter: brightness(90%);}
+/* ######################################################## */
